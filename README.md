@@ -1,6 +1,6 @@
 ### Hi, I'm Dean
 
-I'm a full-stack developer and team lead in Oklahoma City with 20 years of production software
+I'm a full-stack developer and team lead in Tulsa with 20 years of production software
 behind me: .NET, Java, and Angular, across defense, payroll, mortgage, energy, and banking.
 
 These days I'm focused on agentic AI in software delivery. I build **RepBunny**, a strength
